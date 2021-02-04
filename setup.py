@@ -14,7 +14,7 @@ setup(
     packages=['rest_meets_djongo'],
 
     install_requires=[
-        'Django<3',
+        'Django',
         'djangorestframework<4',
         'djongo>=1.3.0,<1.3.1',
     ],
