@@ -16,7 +16,7 @@ setup(
     install_requires=[
         'Django',
         'djangorestframework<4',
-        'djongo>=1.3.0,<1.3.1',
+        'djongo>=1.3.0',
     ],
 
     setup_requires=['pytest-runner'],
