@@ -1,5 +1,5 @@
 -e .
-Django==2.2.13
+Django
 djongo==1.3.4
 djangorestframework==3.11.0
 py
